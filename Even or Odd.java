@@ -12,3 +12,8 @@ public class Main {
             System.out.println(number + " is odd");
     }
 }
+
+
+OR
+
+String evenOdd = (num % 2 == 0) ? "even" : "odd";
